@@ -20,7 +20,7 @@
 <h3 align="center">Read4Public</h3>
 
   <p align="center">
-    project_description
+    With this script you can tweet out your favourite phrase or word from a book every time it appears!
     <br />
     <a href="https://github.com/RobMadill/Read4Public_Bot"><strong>Explore the docs »</strong></a>
     <br />
@@ -60,7 +60,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `Read4Public_Bot`, `Read4Public`, `project_description`
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -69,6 +69,7 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 #### Dependencies
 * [Tweepy](https://docs.tweepy.org/en/stable/)
+* [Argeparse](https://docs.python.org/3/library/argparse.html)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -95,11 +96,12 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-1. Clone the repo
-   ```sh
-   git clone https://github.com/RobMadill/Read4Public_Bot
+1. Add `config.py` file
+   ```python
+   auth = tweepy.OAuthHandler(config.API_KEY, config.API_KEY_SECRET)
+   auth.set_access_token(config.ACCESS_TOKEN, config.ACCESS_TOKEN_SECRET)
    ```
-2. Use main.py with arguments specified
+2. Use main.py with required arguments
    ```sh
    main.py -c The_Idiot_Part_One.txt -k Idiot
    ```
@@ -110,7 +112,7 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 ## Contributing
 
 If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
+Don't forget to give the project a star! Thanks!
 
 1. Fork the Project
 2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
