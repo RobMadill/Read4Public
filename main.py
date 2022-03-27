@@ -24,7 +24,7 @@ def case_ignore(keyword: str) -> list:
     return [keyword.lower(), keyword[0:1].upper()+keyword[1:]]
 
 # Reads content with keyword selection and sends as tweet
-def main(content: str, keyword: str, number: int) -> None:
+def main(content: str, keyword: str) -> None:
     api = auth()    
     text = content_modify(content)
     keyword_list = case_ignore(keyword)
@@ -41,12 +41,10 @@ if __name__ == '__main__':
                         metavar='', help='content that will be parsed and tweeted', required=True)
     parser.add_argument('-k', '--keyword', dest='keyword',
                         metavar='', help='keyword to find in content file', required=True)
-    parser.add_argument('-n,' '--number', type=int, dest='number',
-                        metavar='', help='number of tweets for keyword sentences')
 
     args = parser.parse_args()
     content = args.content
     keyword = args.keyword
-    number = args.number
 
     main(content, keyword, number)
+ 
