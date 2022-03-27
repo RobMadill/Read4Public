@@ -13,7 +13,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/RobMadill/Read4Public_Bot">
+  <a href="https://github.com/RobMadill/Read4Public">
     <img src="https://user-images.githubusercontent.com/19481324/158642612-e676c8ff-6e5f-40b7-9539-f7f95d419034.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -22,14 +22,14 @@
   <p align="center">
     With this script you can tweet out your favourite phrase or word from a book every time it appears!
     <br />
-    <a href="https://github.com/RobMadill/Read4Public_Bot"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/RobMadill/Read4Public"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/RobMadill/Read4Public_Bot">View Demo</a>
+    <a href="https://github.com/RobMadill/Read4Public">View Demo</a>
     ·
-    <a href="https://github.com/RobMadill/Read4Public_Bot/issues">Report Bug</a>
+    <a href="https://github.com/RobMadill/Read4Public/issues">Report Bug</a>
     ·
-    <a href="https://github.com/RobMadill/Read4Public_Bot/issues">Request Feature</a>
+    <a href="https://github.com/RobMadill/Read4Public/issues">Request Feature</a>
   </p>
 </div>
 
@@ -78,7 +78,7 @@
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/RobMadill/Read4Public_Bot
+   git clone https://github.com/RobMadill/Read4Public
    ```
 2. Install Tweepy library 
    ```sh
@@ -134,7 +134,7 @@ Distributed under the GNU License. See `LICENSE` for more information.
 
 Rob Madill - [@linkedin](https://www.linkedin.com/in/robert-madill/) - robertmadill17@gmail.com
 
-Project Link: [https://github.com/RobMadill/Read4Public_Bot](https://github.com/RobMadill/Read4Public_Bot)
+Project Link: [https://github.com/RobMadill/Read4Public](https://github.com/RobMadill/Read4Public)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -146,15 +146,15 @@ Project Link: [https://github.com/RobMadill/Read4Public_Bot](https://github.com/
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[contributors-shield]: https://img.shields.io/github/contributors/RobMadill/Read4Public_Bot.svg?style=for-the-badge
-[contributors-url]: https://github.com/RobMadill/Read4Public_Bot/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/RobMadill/Read4Public_Bot.svg?style=for-the-badge
-[forks-url]: https://github.com/RobMadill/Read4Public_Bot/network/members
-[stars-shield]: https://img.shields.io/github/stars/RobMadill/Read4Public_Bot.svg?style=for-the-badge
-[stars-url]: https://github.com/RobMadill/Read4Public_Bot/stargazers
-[issues-shield]: https://img.shields.io/github/issues/RobMadill/Read4Public_Bot.svg?style=for-the-badge
-[issues-url]: https://github.com/RobMadill/Read4Public_Bot/issues
-[license-shield]: https://img.shields.io/github/license/RobMadill/Read4Public_Bot.svg?style=for-the-badge
-[license-url]: https://github.com/RobMadill/Read4Public_Bot/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/RobMadill/Read4Public.svg?style=for-the-badge
+[contributors-url]: https://github.com/RobMadill/Read4Public/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/RobMadill/Read4Public.svg?style=for-the-badge
+[forks-url]: https://github.com/RobMadill/Read4Public/network/members
+[stars-shield]: https://img.shields.io/github/stars/RobMadill/Read4Public.svg?style=for-the-badge
+[stars-url]: https://github.com/RobMadill/Read4Public/stargazers
+[issues-shield]: https://img.shields.io/github/issues/RobMadill/Read4Public.svg?style=for-the-badge
+[issues-url]: https://github.com/RobMadill/Read4Public/issues
+[license-shield]: https://img.shields.io/github/license/RobMadill/Read4Public.svg?style=for-the-badge
+[license-url]: https://github.com/RobMadill/Read4Public/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/robert-madill/
