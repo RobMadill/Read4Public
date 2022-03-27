@@ -60,12 +60,13 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
+This script came from thinking of ways to utilize the Twitter API. Talking with a friend, they thought it would be a neat idea to tweet a sentence of a book until the book is finished. There were limitations such as 280-character limit and the fact that tweeting a sentence of a book would take up a lot of the Twitter feed. I’ve added a feature to add a keyword to search through the content to limit Twitter feed consumption and made sure the sentence being tweeted is less than 280-characters. 
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ### Built With
-* [Python - 3.8](https://www.python.org/)
+* [Python - 3.8.10](https://www.python.org/)
 
 #### Dependencies
 * [Tweepy](https://docs.tweepy.org/en/stable/)
