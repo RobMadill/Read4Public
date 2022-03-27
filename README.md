@@ -20,7 +20,7 @@
 <h3 align="center">Read4Public</h3>
 
   <p align="center">
-    With this script you can tweet out your favourite phrase or word from a book every time it appears!
+    This script allows you to search a book with a keyword and tweet all sentences with that keyword!
     <br />
     <a href="https://github.com/RobMadill/Read4Public"><strong>Explore the docs »</strong></a>
     <br />
