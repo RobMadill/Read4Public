@@ -137,6 +137,8 @@ Rob Madill - [@linkedin](https://www.linkedin.com/in/robert-madill/) - robertmad
 
 Project Link: [https://github.com/RobMadill/Read4Public](https://github.com/RobMadill/Read4Public)
 
+Twitter Account: [Read4Public](https://twitter.com/Read4P)
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- ACKNOWLEDGMENTS -->
