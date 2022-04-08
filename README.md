@@ -70,7 +70,7 @@ This script came from thinking of ways to utilize the Twitter API. Talking with 
 
 #### Dependencies
 * [Tweepy](https://docs.tweepy.org/en/stable/)
-* [Argeparse](https://docs.python.org/3/library/argparse.html)
+* [Argparse](https://docs.python.org/3/library/argparse.html)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
